@@ -151,8 +151,6 @@ C:\Users\AYO\Documents\Visual Studio 2019\Project\C#\Point of Sale\Point of Sale
 C:\Users\AYO\Documents\Visual Studio 2019\Project\C#\Point of Sale\Point of Sale\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
 C:\Users\AYO\Documents\Visual Studio 2019\Project\C#\Point of Sale\Point of Sale\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
 C:\Users\AYO\Documents\Visual Studio 2019\Project\C#\Point of Sale\Point of Sale\bin\Debug\FontAwesome.Sharp.dll
-C:\Users\AYO\Documents\Visual Studio 2019\Project\C#\Point of Sale\Point of Sale\bin\Debug\FontsInstaller.dll
-C:\Users\AYO\Documents\Visual Studio 2019\Project\C#\Point of Sale\Point of Sale\bin\Debug\HTMLEditor.dll
 C:\Users\AYO\Documents\Visual Studio 2019\Project\C#\Point of Sale\Point of Sale\bin\Debug\MySql.Data.dll
 C:\Users\AYO\Documents\Visual Studio 2019\Project\C#\Point of Sale\Point of Sale\bin\Debug\Bunifu.Charts.WinForms.xml
 C:\Users\AYO\Documents\Visual Studio 2019\Project\C#\Point of Sale\Point of Sale\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
@@ -187,8 +185,6 @@ C:\Users\AYO\Documents\Visual Studio 2019\Project\C#\Point of Sale\Point of Sale
 C:\Users\AYO\Documents\Visual Studio 2019\Project\C#\Point of Sale\Point of Sale\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
 C:\Users\AYO\Documents\Visual Studio 2019\Project\C#\Point of Sale\Point of Sale\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
 C:\Users\AYO\Documents\Visual Studio 2019\Project\C#\Point of Sale\Point of Sale\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
-C:\Users\AYO\Documents\Visual Studio 2019\Project\C#\Point of Sale\Point of Sale\bin\Debug\FontsInstaller.xml
-C:\Users\AYO\Documents\Visual Studio 2019\Project\C#\Point of Sale\Point of Sale\obj\Debug\Point of Sale.csproj.AssemblyReference.cache
 C:\Users\AYO\Documents\Visual Studio 2019\Project\C#\Point of Sale\Point of Sale\obj\Debug\Point_of_Sale.Catalog.Add_Product.resources
 C:\Users\AYO\Documents\Visual Studio 2019\Project\C#\Point of Sale\Point of Sale\obj\Debug\Point_of_Sale.Catalog.Add_Promotion.resources
 C:\Users\AYO\Documents\Visual Studio 2019\Project\C#\Point of Sale\Point of Sale\obj\Debug\Point_of_Sale.Catalog.Catalog.resources

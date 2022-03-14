@@ -141,12 +141,6 @@
     <Reference Include="FontAwesome.Sharp, Version=5.15.3.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\FontAwesome.Sharp.5.15.3\lib\net472\FontAwesome.Sharp.dll</HintPath>
     </Reference>
-    <Reference Include="FontsInstaller, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\FontsInstaller.1.3.0\lib\FontsInstaller.dll</HintPath>
-    </Reference>
-    <Reference Include="HTMLEditor, Version=2.2.3.275, Culture=neutral, PublicKeyToken=7e79dd0f3fedb2ef, processorArchitecture=MSIL">
-      <HintPath>..\packages\Zoople.HTMLEditor.2.2.3.275\lib\net472\HTMLEditor.dll</HintPath>
-    </Reference>
     <Reference Include="MySql.Data">
       <HintPath>lib\MySql.Data.dll</HintPath>
     </Reference>
